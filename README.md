@@ -1,7 +1,8 @@
 # Jogo de Tabuleiro - Xadrez
-![](xadrez.png?raw=true "Xadrez")
+
 <h1 align="center">Projeto elabora na UC de Fundamentos de Programação</h1>
 
+![](xadrez.png?raw=true "Xadrez")
 
 # Introdução
 
