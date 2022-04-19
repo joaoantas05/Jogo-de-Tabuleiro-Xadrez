@@ -1,13 +1,13 @@
 # Jogo de Tabuleiro - Xadrez
 <h1 align="center">Projeto elabora na UC de Fundamentos de Programação</h1>
 
-#Introdução
+# Introdução
 
 Este projeto tem como objetivo o desenvolvimento de um programa usando a linguagem Kotlin.
 O programa a desenvolver será uma versão do conhecido “Jogo de tabuleiro - Xadrez” utilizando os objetivos aprendidos em Fundamentos de Programação (FP).
 
 
-#Objetivos
+# Objetivos
 
 Neste projeto foi proposto realizar as seguintes tarefas:
 ● Criação dos menus do jogo;
