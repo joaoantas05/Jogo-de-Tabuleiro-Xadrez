@@ -1,2 +1,2 @@
 # Jogo de Tabuleiro - Xadrez
-Projeto elabora na UC de Fundamentos de Programação
+<h1 align="center">Projeto elabora na UC de Fundamentos de Programação</h1>
