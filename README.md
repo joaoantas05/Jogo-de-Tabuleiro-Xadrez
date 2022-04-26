@@ -13,10 +13,17 @@ O programa a desenvolver será uma versão do conhecido “Jogo de tabuleiro - X
 # Objetivos
 
 Neste projeto foi proposto realizar as seguintes tarefas:
+
 ● Criação dos menus do jogo;
+
 ● Recolha e validação dos nomes dos jogadores;
-● Apresentação do tabuleiro de Xadrez com a opção de mostrar as peças e/ou legenda.
+
+● Apresentação do tabuleiro de Xadrez com a opção de mostrar as peças e/ou legenda;
+
 ● Alteração dos menus do jogo;
+
 ● Criação do tabuleiro inicial, com as peças posicionadas;
+
 ● Movimento das peças
+
 ● Deteção de jogo terminado
